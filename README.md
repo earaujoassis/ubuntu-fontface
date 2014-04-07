@@ -1,6 +1,6 @@
 # Ubuntu Font Family
 
-> Ubuntu Font Family Bower-ready
+> Ubuntu Font Family Bower-ready (also SASS-ready, LESS-ready, and plain CSS-ready)
 
 # License
 
