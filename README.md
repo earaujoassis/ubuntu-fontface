@@ -2,7 +2,7 @@
 
 > Ubuntu Font Family Bower-ready (also SASS-ready, LESS-ready, and plain CSS-ready)
 
-# License
+## License
 
 The Ubuntu Font Family is distributed under the [Ubuntu Font Licence](http://font.ubuntu.com/licence/).
 
