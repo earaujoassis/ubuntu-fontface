@@ -1,0 +1,20 @@
+# Site settings
+title: Ubuntu Font (Bower project)
+email: hello@dearaujoassis.com
+description: Ubuntu Font Family Bower-ready
+baseurl: "/ubuntu-fontface"
+url: "https://earaujoassis.github.io"
+creators_website: "http://dearaujoassis.com"
+twitter_username: earaujoassis
+github_username:  earaujoassis
+github_project: evolve
+source: .
+destination: ./_build
+
+# Build settings
+exclude: ['Gemfile', 'Gemfile.lock', 'bower.json', 'README.md']
+keep_files: ['components', '.git']
+markdown: kramdown
+sass:
+  style: :compressed
+  sass_dir: _sass

@@ -1,6 +1,6 @@
 {
   "name": "ubuntu-fontface",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "homepage": "https://github.com/earaujoassis/ubuntu-fontface",
   "authors": [
     "Ewerton Assis <hey@ewerton-araujo.com>"
@@ -27,5 +27,6 @@
     "bower_components",
     "test",
     "tests"
+    "site"
   ]
 }
