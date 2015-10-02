@@ -1,0 +1,7 @@
+/* Ubuntu (complete package) @font-face kit */
+
+$UbuntuFontsPath: "./fonts" !default;
+
+@import "./ubuntu-base.scss";
+@import "./ubuntu-condensed.scss";
+@import "./ubuntu-mono.scss";
