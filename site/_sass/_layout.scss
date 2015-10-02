@@ -15,8 +15,18 @@ h1, h2, h3, h4, h5, h6, p {
         margin: 0px;
         padding: 0.5rem 1.4rem;
         border-radius: 4px;
-        background: #F3F3F3 none repeat scroll 0% 0%;
+        background: #f3f3f3 none repeat scroll 0% 0%;
         box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+    }
+}
+
+.page-content, .site-footer {
+    .button, button {
+        &.button {
+            background: #dbdbdb none repeat scroll 0% 0%;
+            color: #777;
+            box-shadow: none;
+        }
     }
 }
 
@@ -58,14 +68,6 @@ h1, h2, h3, h4, h5, h6, p {
 .site-footer {
     padding: 25px 0 50px;
     color: #b6b6b6;
-
-    .button, button {
-        &.button {
-            background: #DBDBDB none repeat scroll 0% 0%;
-            color: #777;
-            box-shadow: none;
-        }
-    }
 
     a {
         color: #777;
