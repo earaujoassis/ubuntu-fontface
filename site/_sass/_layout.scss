@@ -30,6 +30,10 @@ h1, h2, h3, h4, h5, h6, p {
     }
 }
 
+pre, code {
+    font-family: "Ubuntu Monospace", sans-serif;
+}
+
 .site-header {
     text-align: center;
     background: #dd4814;
@@ -51,10 +55,6 @@ h1, h2, h3, h4, h5, h6, p {
 
 .page-content {
     padding: 50px 0 25px;
-
-    pre {
-        font-family: "Ubuntu Monospace", sans-serif;
-    }
 
     blockquote {
         margin-left: 30px;

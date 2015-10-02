@@ -19,7 +19,7 @@ if you're using pure CSS, [SCSS](http://sass-lang.com/), or [LESS](http://lesscs
     ```
 
 2. If you need any help (or have found any bug &#x1f41e;), please post it on
-<a href="issues">/issues</a>. Thank you!
+[/issues](//github.com/earaujoassis/ubuntu-fontface/issues). Thank you!
 
 ## License
 
