@@ -1,9 +1,14 @@
 {
   "name": "ubuntu-fontface",
-  "version": "0.1.5",
+  "version": "0.1.9",
+  "main": [
+    "./ubuntu.css",
+    "./_ubuntu.scss",
+    "./ubuntu.less"
+  ],
   "homepage": "https://github.com/earaujoassis/ubuntu-fontface",
   "authors": [
-    "Ewerton Assis <hey@ewerton-araujo.com>"
+    "Ewerton Assis <hello@dearaujoassis.com>"
   ],
   "description": "Ubuntu Font Family Bower-ready (also SASS-ready, LESS-ready, and plain CSS-ready)",
   "keywords": [
@@ -26,15 +31,16 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "site"
   ],
-  "_release": "0.1.5",
+  "_release": "0.1.9",
   "_resolution": {
     "type": "version",
-    "tag": "v0.1.5",
-    "commit": "14cad5e59baff5366e1248155b5c6b618ddaf455"
+    "tag": "v0.1.9",
+    "commit": "9ad65584b31b5fa542e479dde9f0c34016f65764"
   },
   "_source": "git://github.com/earaujoassis/ubuntu-fontface.git",
-  "_target": "~0.1.5",
+  "_target": "~0.1.9",
   "_originalSource": "ubuntu-fontface"
 }
