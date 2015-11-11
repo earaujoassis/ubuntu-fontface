@@ -1,5 +1,12 @@
 ## Changelog
 
+### v0.1.10
+- Improve documentation
+- Minify the pure CSS file
+
+### v0.1.8, v0.1.9
+- Fix problems with the invalid bower.json
+
 ### v0.1.5 – Fixes and improvements
 - Greek and Cyrillic charsets added
 - Project page created

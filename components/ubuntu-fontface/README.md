@@ -10,12 +10,13 @@
    $ bower install [--save] ubuntu-fontface
    ```
 
-1. Import it on SCSS/LESS/CSS source code. Assuming `$BOWER_PATH=bower_components`; `$SUFFIX` options
-are `-base`, `-condensed` and `-mono`; `$EXTENSION` options are `css`, `less`, `scss` (depending
-if you're using pure CSS, [SCSS](http://sass-lang.com/), or [LESS](http://lesscss.org/).
+1. Import it on SCSS/LESS/CSS source code. Assuming `{BOWER_PATH}` is `bower_components/`; `{SUFFIX}` options
+are `-base`, `-condensed` and `-mono`; `{EXTENSION}` options are `css`, `less`, `scss`, depending
+whether you're using pure CSS, [SCSS](http://sass-lang.com/) or [LESS](http://lesscss.org/). The `{SUFFIX}` is
+not available if you're importing the pure CSS file. A minified file is available for the pure CSS version.
 
     ```css
-    @import "$BOWER_PATH/ubuntu-fontface/ubuntu$SUFFIX.$EXTENSION";
+    @import "{BOWER_PATH}/ubuntu-fontface/ubuntu{SUFFIX}.{EXTENSION}";
     ```
 
 2. If you need any help (or have found any bug &#x1f41e;), please post it on
