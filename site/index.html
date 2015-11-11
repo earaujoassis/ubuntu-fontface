@@ -23,12 +23,13 @@ layout: default
             </pre>
           </li>
           <li>
-            <p>Import it on SCSS/LESS/CSS source code. Assuming <code class="highlight"><span class="si">$BOWER_PATH</span>=<span class="sr">bower_components</span></code>;
-  <code class="highlight"><span class="si">$SUFFIX</span></code> options are <code class="highlight"><span class="sr">-base</span></code>, <code class="highlight"><span class="sr">-condensed</span></code> and <code class="highlight"><span class="sr">-mono</span></code>;
-  <code class="highlight"><span class="si">$EXTENSION</span></code> options are <code class="highlight"><span class="sr">css</span></code>, <code class="highlight"><span class="sr">less</span></code>, <code class="highlight"><span class="sr">scss</span></code>
-  (depending if you're using pure CSS, <a href="//sass-lang.com/">SCSS</a>, or <a href="//lesscss.org/">LESS</a>.</p>
+            <p>Import it on SCSS/LESS/CSS source code. Assuming <code class="highlight"><span class="si">{BOWER_PATH}</span></code> is <code class="highlight"><span class="sr">bower_components</span></code>;
+  <code class="highlight"><span class="si">{SUFFIX}</span></code> options are <code class="highlight"><span class="sr">-base</span></code>, <code class="highlight"><span class="sr">-condensed</span></code> and <code class="highlight"><span class="sr">-mono</span></code>;
+  <code class="highlight"><span class="si">{EXTENSION}</span></code> options are <code class="highlight"><span class="sr">css</span></code>, <code class="highlight"><span class="sr">less</span></code>, <code class="highlight"><span class="sr">scss</span></code>,
+  depending whether you're using pure CSS, <a href="//sass-lang.com/">SCSS</a> or <a href="//lesscss.org/">LESS</a>. The <code class="highlight"><span class="si">{SUFFIX}</span></code> is not available if you're importing the pure CSS file.
+  A minified file is available for the pure CSS version.</p>
             <pre class="highlight">
-  <span class="nf">@import</span> <span class="sr">"<span class="si">$BOWER_PATH</span>/ubuntu-fontface/ubuntu<span class="si">$SUFFIX</span>.<span class="si">$EXTENSION</span>"</span>;
+  <span class="nf">@import</span> <span class="sr">"<span class="si">{BOWER_PATH}</span>/ubuntu-fontface/ubuntu<span class="si">{SUFFIX}</span>.<span class="si">{EXTENSION}</span>"</span>;
             </pre>
           </li>
           <li>
@@ -40,7 +41,7 @@ layout: default
   </section>
   <section class="row">
     <div class="large-12 columns">
-      <h2>Tests</h2>
+      <h2>Examples</h2>
       <blockquote>
         <p>Любо́вь сильне́е сме́рти и стра́ха сме́рти. То́лько е́ю, то́лько любо́вью де́ржится и движется жизнь.</p>
         <footer><cite>И.С.Тургенев (1818 &ndash; 1883)</cite></footer>
