@@ -25,6 +25,7 @@ not available if you're importing the pure CSS file. A minified file is availabl
 ## Contributors
 
 - Pavel Rykov ([@PavelRykov](https://github.com/PavelRykov))
+- Jordan Last ([@lastmjs](https://github.com/lastmjs))
 
 ## License
 

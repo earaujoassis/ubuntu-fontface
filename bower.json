@@ -1,6 +1,6 @@
 {
   "name": "ubuntu-fontface",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "main": [
     "./ubuntu.css",
     "./ubuntu.min.css",
