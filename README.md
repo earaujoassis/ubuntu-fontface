@@ -22,6 +22,10 @@ not available if you're importing the pure CSS file. A minified file is availabl
 2. If you need any help (or have found any bug &#x1f41e;), please post it on
 [/issues](//github.com/earaujoassis/ubuntu-fontface/issues). Thank you!
 
+## Contributors
+
+- Pavel Rykov ([@PavelRykov](https://github.com/PavelRykov))
+
 ## License
 
 The Ubuntu Font Family is distributed under the [Ubuntu Font Licence](http://font.ubuntu.com/licence/).
