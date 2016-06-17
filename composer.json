@@ -3,13 +3,13 @@
     "type": "css",
     "description": "Ubuntu Font Family",
     "homepage": "https://earaujoassis.github.io/ubuntu-fontface/",
-    "keywords": ["css", "fonts"],
+    "keywords": ["css", "sass", "less", "fonts", "font", "ubuntu", "fontface"],
     "authors": [
         {
             "name": "Ewerton Assis",
             "email": "earaujoassis@gmail.com",
             "homepage": "https://earaujoassis.com/",
-            "role": "Developer"
+            "role": "Maintainer"
         },
         {
             "name": "Pavel Rykov",
@@ -20,5 +20,6 @@
     ],
     "require": {},
     "autoload": {},
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "license": "MIT"
 }
