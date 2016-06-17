@@ -10,6 +10,12 @@
    $ bower install [--save] ubuntu-fontface
    ```
 
+   or from [NPM](http://npmjs.com/)
+
+   ```sh
+   $ npm install [--save] ubuntu-fontface
+   ```
+
 1. Import it on SCSS/LESS/CSS source code. Assuming `{BOWER_PATH}` is `bower_components/`; `{SUFFIX}` options
 are `-base`, `-condensed` and `-mono`; `{EXTENSION}` options are `css`, `less`, `scss`, depending
 whether you're using pure CSS, [SCSS](http://sass-lang.com/) or [LESS](http://lesscss.org/). The `{SUFFIX}` is
