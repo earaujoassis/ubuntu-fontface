@@ -2,7 +2,7 @@
 
 > Ubuntu Font Family Bower-ready (also SCSS-ready, LESS-ready, and plain CSS-ready)
 
-## How to use
+## How to use it
 
 0. Install it from [Bower](http://bower.io/)
 
