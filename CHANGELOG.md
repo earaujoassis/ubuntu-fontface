@@ -1,5 +1,8 @@
 ## Changelog
 
+### v0.1.12
+- Fix missing webfont files
+
 ### v0.1.11
 - Create `package.json` for NPM
 - Create `composer.json` for Packagist
