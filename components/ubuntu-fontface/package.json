@@ -1,0 +1,21 @@
+{
+  "name": "ubuntu-fontface",
+  "version": "0.1.12",
+  "description": "Ubuntu Font Family Bower-ready (also SASS-ready, LESS-ready, and plain CSS-ready)",
+  "homepage": "https://github.com/earaujoassis/ubuntu-fontface",
+  "author": "Ewerton Assis <earaujoassis@gmail.com>",
+  "contributors": [
+    "Jordan Last <jordan.michael.last@gmail.com>"
+  ],
+  "keywords": [
+    "ubuntu",
+    "font",
+    "fontface",
+    "css",
+    "sass",
+    "less",
+    "web",
+    "design"
+  ],
+  "license": "SEE LICENSE IN README.md"
+}

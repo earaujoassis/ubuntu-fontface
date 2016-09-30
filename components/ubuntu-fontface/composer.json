@@ -1,0 +1,25 @@
+{
+    "name": "earaujoassis/ubuntu-fontface",
+    "type": "css",
+    "description": "Ubuntu Font Family",
+    "homepage": "https://earaujoassis.github.io/ubuntu-fontface/",
+    "keywords": ["css", "sass", "less", "fonts", "font", "ubuntu", "fontface"],
+    "authors": [
+        {
+            "name": "Ewerton Assis",
+            "email": "earaujoassis@gmail.com",
+            "homepage": "https://earaujoassis.com/",
+            "role": "Maintainer"
+        },
+        {
+            "name": "Pavel Rykov",
+            "email": "p.rikov@drteam.rocks",
+            "homepage": "http://drteam.rocks/",
+            "role": "Contributor"
+        }
+    ],
+    "require": {},
+    "autoload": {},
+    "minimum-stability": "dev",
+    "license": "MIT"
+}

@@ -2,12 +2,18 @@
 
 > Ubuntu Font Family Bower-ready (also SCSS-ready, LESS-ready, and plain CSS-ready)
 
-## How to use
+## How to use it
 
 0. Install it from [Bower](http://bower.io/)
 
    ```sh
    $ bower install [--save] ubuntu-fontface
+   ```
+
+   or from [NPM](http://npmjs.com/)
+
+   ```sh
+   $ npm install [--save] ubuntu-fontface
    ```
 
 1. Import it on SCSS/LESS/CSS source code. Assuming `{BOWER_PATH}` is `bower_components/`; `{SUFFIX}` options
@@ -21,6 +27,11 @@ not available if you're importing the pure CSS file. A minified file is availabl
 
 2. If you need any help (or have found any bug &#x1f41e;), please post it on
 [/issues](//github.com/earaujoassis/ubuntu-fontface/issues). Thank you!
+
+## Contributors
+
+- Pavel Rykov ([@PavelRykov](https://github.com/PavelRykov))
+- Jordan Last ([@lastmjs](https://github.com/lastmjs))
 
 ## License
 

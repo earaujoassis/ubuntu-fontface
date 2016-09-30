@@ -1,6 +1,6 @@
 {
   "name": "ubuntu-fontface",
-  "version": "0.1.10",
+  "version": "0.1.12",
   "main": [
     "./ubuntu.css",
     "./ubuntu.min.css",
@@ -35,13 +35,13 @@
     "tests",
     "site"
   ],
-  "_release": "0.1.10",
+  "_release": "0.1.12",
   "_resolution": {
     "type": "version",
-    "tag": "v0.1.10",
-    "commit": "41852bca0a3c10a69e37232763e504b75cb76497"
+    "tag": "v0.1.12",
+    "commit": "ebfe2b52eb2f3642215306071858875b7c9caa9e"
   },
-  "_source": "git://github.com/earaujoassis/ubuntu-fontface.git",
-  "_target": "~0.1.10",
+  "_source": "https://github.com/earaujoassis/ubuntu-fontface.git",
+  "_target": "~0.1.12",
   "_originalSource": "ubuntu-fontface"
 }
