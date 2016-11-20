@@ -8,6 +8,7 @@ $UbuntuFontsPath: "./fonts" !default;
     font-family: 'Ubuntu Monospace';
     src: url('#{$UbuntuFontsPath}/ubuntumono-regular-webfont.eot');
     src: url('#{$UbuntuFontsPath}/ubuntumono-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('#{$UbuntuFontsPath}/ubuntumono-regular-webfont.woff2') format('woff2'),
          url('#{$UbuntuFontsPath}/ubuntumono-regular-webfont.woff') format('woff'),
          url('#{$UbuntuFontsPath}/ubuntumono-regular-webfont.ttf') format('truetype'),
          url('#{$UbuntuFontsPath}/ubuntumono-regular-webfont.svg#ubuntu_monoregular') format('svg');
@@ -22,6 +23,7 @@ $UbuntuFontsPath: "./fonts" !default;
     font-family: 'Ubuntu Monospace';
     src: url('#{$UbuntuFontsPath}/ubuntumono-regular-italic-webfont.eot');
     src: url('#{$UbuntuFontsPath}/ubuntumono-regular-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('#{$UbuntuFontsPath}/ubuntumono-regular-italic-webfont.woff2') format('woff2'),
          url('#{$UbuntuFontsPath}/ubuntumono-regular-italic-webfont.woff') format('woff'),
          url('#{$UbuntuFontsPath}/ubuntumono-regular-italic-webfont.ttf') format('truetype'),
          url('#{$UbuntuFontsPath}/ubuntumono-regular-italic-webfont.svg#ubuntu_monoitalic') format('svg');
@@ -35,6 +37,7 @@ $UbuntuFontsPath: "./fonts" !default;
     font-family: 'Ubuntu Monospace';
     src: url('#{$UbuntuFontsPath}/ubuntumono-bold-webfont.eot');
     src: url('#{$UbuntuFontsPath}/ubuntumono-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('#{$UbuntuFontsPath}/ubuntumono-bold-webfont.woff2') format('woff2'),
          url('#{$UbuntuFontsPath}/ubuntumono-bold-webfont.woff') format('woff'),
          url('#{$UbuntuFontsPath}/ubuntumono-bold-webfont.ttf') format('truetype'),
          url('#{$UbuntuFontsPath}/ubuntumono-bold-webfont.svg#ubuntu_monobold') format('svg');
@@ -48,6 +51,7 @@ $UbuntuFontsPath: "./fonts" !default;
     font-family: 'Ubuntu Monospace';
     src: url('#{$UbuntuFontsPath}/ubuntumono-bold-italic-webfont.eot');
     src: url('#{$UbuntuFontsPath}/ubuntumono-bold-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('#{$UbuntuFontsPath}/ubuntumono-bold-italic-webfont.woff2') format('woff2'),
          url('#{$UbuntuFontsPath}/ubuntumono-bold-italic-webfont.woff') format('woff'),
          url('#{$UbuntuFontsPath}/ubuntumono-bold-italic-webfont.ttf') format('truetype'),
          url('#{$UbuntuFontsPath}/ubuntumono-bold-italic-webfont.svg#ubuntu_monobold_italic') format('svg');

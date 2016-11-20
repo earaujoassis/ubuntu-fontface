@@ -8,6 +8,7 @@ $UbuntuFontsPath: "./fonts" !default;
     font-family: 'Ubuntu';
     src: url('#{$UbuntuFontsPath}/ubuntu-light-webfont.eot');
     src: url('#{$UbuntuFontsPath}/ubuntu-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('#{$UbuntuFontsPath}/ubuntu-light-webfont.woff2') format('woff2'),
          url('#{$UbuntuFontsPath}/ubuntu-light-webfont.woff') format('woff'),
          url('#{$UbuntuFontsPath}/ubuntu-light-webfont.ttf') format('truetype'),
          url('#{$UbuntuFontsPath}/ubuntu-light-webfont.svg#ubuntulight') format('svg');
@@ -21,6 +22,7 @@ $UbuntuFontsPath: "./fonts" !default;
     font-family: 'Ubuntu';
     src: url('#{$UbuntuFontsPath}/ubuntu-light-italic-webfont.eot');
     src: url('#{$UbuntuFontsPath}/ubuntu-light-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('#{$UbuntuFontsPath}/ubuntu-light-italic-webfont.woff2') format('woff2'),
          url('#{$UbuntuFontsPath}/ubuntu-light-italic-webfont.woff') format('woff'),
          url('#{$UbuntuFontsPath}/ubuntu-light-italic-webfont.ttf') format('truetype'),
          url('#{$UbuntuFontsPath}/ubuntu-light-italic-webfont.svg#ubuntulight_italic') format('svg');
@@ -34,6 +36,7 @@ $UbuntuFontsPath: "./fonts" !default;
     font-family: 'Ubuntu';
     src: url('#{$UbuntuFontsPath}/ubuntu-regular-webfont.eot');
     src: url('#{$UbuntuFontsPath}/ubuntu-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('#{$UbuntuFontsPath}/ubuntu-regular-webfont.woff2') format('woff2'),
          url('#{$UbuntuFontsPath}/ubuntu-regular-webfont.woff') format('woff'),
          url('#{$UbuntuFontsPath}/ubuntu-regular-webfont.ttf') format('truetype'),
          url('#{$UbuntuFontsPath}/ubuntu-regular-webfont.svg#ubunturegular') format('svg');
@@ -47,6 +50,7 @@ $UbuntuFontsPath: "./fonts" !default;
     font-family: 'Ubuntu';
     src: url('#{$UbuntuFontsPath}/ubuntu-regular-italic-webfont.eot');
     src: url('#{$UbuntuFontsPath}/ubuntu-regular-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('#{$UbuntuFontsPath}/ubuntu-regular-italic-webfont.woff2') format('woff2'),
          url('#{$UbuntuFontsPath}/ubuntu-regular-italic-webfont.woff') format('woff'),
          url('#{$UbuntuFontsPath}/ubuntu-regular-italic-webfont.ttf') format('truetype'),
          url('#{$UbuntuFontsPath}/ubuntu-regular-italic-webfont.svg#ubuntuitalic') format('svg');
@@ -60,6 +64,7 @@ $UbuntuFontsPath: "./fonts" !default;
     font-family: 'Ubuntu';
     src: url('#{$UbuntuFontsPath}/ubuntu-medium-webfont.eot');
     src: url('#{$UbuntuFontsPath}/ubuntu-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('#{$UbuntuFontsPath}/ubuntu-medium-webfont.woff2') format('woff2'),
          url('#{$UbuntuFontsPath}/ubuntu-medium-webfont.woff') format('woff'),
          url('#{$UbuntuFontsPath}/ubuntu-medium-webfont.ttf') format('truetype'),
          url('#{$UbuntuFontsPath}/ubuntu-medium-webfont.svg#ubuntumedium') format('svg');
@@ -73,6 +78,7 @@ $UbuntuFontsPath: "./fonts" !default;
     font-family: 'Ubuntu';
     src: url('#{$UbuntuFontsPath}/ubuntu-medium-italic-webfont.eot');
     src: url('#{$UbuntuFontsPath}/ubuntu-medium-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('#{$UbuntuFontsPath}/ubuntu-medium-italic-webfont.woff2') format('woff2'),
          url('#{$UbuntuFontsPath}/ubuntu-medium-italic-webfont.woff') format('woff'),
          url('#{$UbuntuFontsPath}/ubuntu-medium-italic-webfont.ttf') format('truetype'),
          url('#{$UbuntuFontsPath}/ubuntu-medium-italic-webfont.svg#ubuntumedium_italic') format('svg');
@@ -86,6 +92,7 @@ $UbuntuFontsPath: "./fonts" !default;
     font-family: 'Ubuntu';
     src: url('#{$UbuntuFontsPath}/ubuntu-bold-webfont.eot');
     src: url('#{$UbuntuFontsPath}/ubuntu-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('#{$UbuntuFontsPath}/ubuntu-bold-webfont.woff2') format('woff2'),
          url('#{$UbuntuFontsPath}/ubuntu-bold-webfont.woff') format('woff'),
          url('#{$UbuntuFontsPath}/ubuntu-bold-webfont.ttf') format('truetype'),
          url('#{$UbuntuFontsPath}/ubuntu-bold-webfont.svg#ubuntubold') format('svg');
@@ -99,6 +106,7 @@ $UbuntuFontsPath: "./fonts" !default;
     font-family: 'Ubuntu';
     src: url('#{$UbuntuFontsPath}/ubuntu-bold-italic-webfont.eot');
     src: url('#{$UbuntuFontsPath}/ubuntu-bold-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('#{$UbuntuFontsPath}/ubuntu-bold-italic-webfont.woff2') format('woff2'),
          url('#{$UbuntuFontsPath}/ubuntu-bold-italic-webfont.woff') format('woff'),
          url('#{$UbuntuFontsPath}/ubuntu-bold-italic-webfont.ttf') format('truetype'),
          url('#{$UbuntuFontsPath}/ubuntu-bold-italic-webfont.svg#ubuntubold_italic') format('svg');
