@@ -32,6 +32,7 @@ not available if you're importing the pure CSS file. A minified file is availabl
 
 - Pavel Rykov ([@PavelRykov](https://github.com/PavelRykov))
 - Jordan Last ([@lastmjs](https://github.com/lastmjs))
+- Rene Schmidt ([@rene-s](https://github.com/rene-s))
 
 ## License
 

@@ -1,5 +1,8 @@
 ## Changelog
 
+### v0.1.13
+- Add woff2 files (thanks, @rene-s)
+
 ### v0.1.12
 - Fix missing webfont files
 
